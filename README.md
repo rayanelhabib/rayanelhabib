@@ -1,15 +1,4 @@
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<img align="right" height="120" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b31agwec022u0d2xj2nxxc8ay6hpvp1b9320xbws&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-
-<div align="center"> 
-
-<a href="https://portfolio-rayan-el-habib.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio" /></a>
-<a href="https://www.linkedin.com/in/rayan-el-habib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" /></a>
-<a href="mailto:elhabibrayan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email" /></a>
-<a href="https://www.instagram.com/skz_rayan23/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge" alt="instagram" /></a>
+<div align="center">
 
 <table>
 <tr>
@@ -18,30 +7,18 @@
 </tr>
 </table>
 
-## Rayan El Habib
-
-**IT Developer · Full Stack Engineer · Open Source Contributor**
-
-<!-- animated contribution graph, refreshed daily by the workflow -->
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
-
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="auto" left="0" >
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="auto" align="top" />
-
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" />
-
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
 ![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
+<a href="https://portfolio-rayan-el-habib.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio" /></a>
+<a href="https://www.linkedin.com/in/rayan-el-habib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" /></a>
+<a href="mailto:elhabibrayan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email" /></a>
+<a href="https://www.instagram.com/skz_rayan23/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge" alt="instagram" /></a>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b31agwec022u0d2xj2nxxc8ay6hpvp1b9320xbws&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" />
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
@@ -60,6 +37,12 @@
 | **Learning** | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/> <img src="https://img.shields.io/badge/Scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white"/> <img src="https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white"/> |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+
+<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="auto" left="0" >
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="auto" align="top" />
 
 <br>
 
