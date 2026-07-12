@@ -10,7 +10,13 @@
 <a href="https://www.linkedin.com/in/rayan-el-habib/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" /></a>
 <a href="mailto:elhabibrayan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="email" /></a>
 <a href="https://www.instagram.com/skz_rayan23/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge" alt="instagram" /></a>
-</div>
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="300" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="400" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
 
 ## Rayan El Habib
 
@@ -54,17 +60,6 @@
 | **Learning** | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/> <img src="https://img.shields.io/badge/Scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white"/> <img src="https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white"/> |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Portrait + Info Card ------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="300" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="400" alt="Experience, stack, highlights" /></td>
-</tr>
-</table>
 
 <br>
 
