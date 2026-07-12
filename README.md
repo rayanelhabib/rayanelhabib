@@ -1,9 +1,9 @@
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="300" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="400" alt="Experience, stack, highlights" /></td>
+<td valign="top" width="50%"><img src="./avi-ascii.svg" width="500" alt="ASCII portrait" /></td>
+<td valign="top" width="50%"><img src="./info-card.svg" width="500" alt="Experience, stack, highlights" /></td>
 </tr>
 </table>
 
