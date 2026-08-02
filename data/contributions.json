@@ -1,21 +1,21 @@
 {
   "username": "rayanelhabib",
-  "generated_at": "2026-08-01T09:46:51Z",
+  "generated_at": "2026-08-02T09:46:17Z",
   "range": {
-    "start": "2025-07-27",
+    "start": "2025-08-03",
+    "end": "2026-08-02"
+  },
+  "total_contributions": 15871,
+  "active_days": 318,
+  "avg_per_active_day": 49.9,
+  "current_streak": {
+    "length": 2,
+    "start": "2026-07-31",
     "end": "2026-08-01"
   },
-  "total_contributions": 16558,
-  "active_days": 324,
-  "avg_per_active_day": 51.1,
-  "current_streak": {
-    "length": 1,
-    "start": "2026-07-31",
-    "end": "2026-07-31"
-  },
   "longest_streak": {
-    "length": 315,
-    "start": "2025-07-27",
+    "length": 308,
+    "start": "2025-08-03",
     "end": "2026-06-06"
   },
   "best_day": {
@@ -24,12 +24,8 @@
   },
   "monthly": [
     {
-      "month": "2025-07",
-      "total": 516
-    },
-    {
       "month": "2025-08",
-      "total": 2995
+      "total": 2822
     },
     {
       "month": "2025-09",
@@ -77,38 +73,10 @@
     },
     {
       "month": "2026-08",
-      "total": 0
+      "total": 2
     }
   ],
   "days": [
-    {
-      "date": "2025-07-27",
-      "count": 85
-    },
-    {
-      "date": "2025-07-28",
-      "count": 109
-    },
-    {
-      "date": "2025-07-29",
-      "count": 119
-    },
-    {
-      "date": "2025-07-30",
-      "count": 97
-    },
-    {
-      "date": "2025-07-31",
-      "count": 106
-    },
-    {
-      "date": "2025-08-01",
-      "count": 88
-    },
-    {
-      "date": "2025-08-02",
-      "count": 85
-    },
     {
       "date": "2025-08-03",
       "count": 99
@@ -1563,6 +1531,10 @@
     },
     {
       "date": "2026-08-01",
+      "count": 2
+    },
+    {
+      "date": "2026-08-02",
       "count": 0
     }
   ]
